@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SplitImageView">
+        <attr name="imgLeft" format="integer"/>
+        <attr name="imgRight" format="integer"/>
+        <attr name="colorDivLine" format="integer"/>
+    </declare-styleable>
+</resources>
